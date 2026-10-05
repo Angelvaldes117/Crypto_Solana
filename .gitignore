@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Credenciales
+.env
+
+# Redis
+dump.rdb
+
+# Logs
+*.log
